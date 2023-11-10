@@ -1,1 +1,1 @@
-Please find the supplementary appendix file for the paper "A Novel Ensemble Q-Learning Algorithm for Policy Optimization in Large-Scale Networks", by Talha Bozkus and Urbashi Mitra, submitted to 2023 Asilomar Conference on Signals, Systems, and Computers.
+Please find the supplementary appendix file for the paper "A Novel Ensemble Q-Learning Algorithm for Policy Optimization in Large-Scale Networks", by Talha Bozkus and Urbashi Mitra, presented in 2023 Asilomar Conference on Signals, Systems, and Computers.
